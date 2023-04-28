@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c9f4b86-d578-449a-9b2f-92d270fc1deb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/challenges/ArrayListChallange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expressionstatement/CodingExercise3Megabytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expressionstatement/CodingExercise5LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expressionstatement/CodingExercise6Decimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expressionstatement/CodingExercise6Decimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expressionstatement/CodingExercise6Decimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +35,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayListChallange">
+  <component name="RunManager" selected="Application.CodingExercise6Decimal">
     <configuration name="ArrayListChallange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="challenges.ArrayListChallange" />
       <module name="TimJava" />
@@ -107,8 +103,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListChallange" />
         <item itemvalue="Application.CodingExercise6Decimal" />
+        <item itemvalue="Application.ArrayListChallange" />
         <item itemvalue="Application.CodingExercise5LeapYear" />
         <item itemvalue="Application.CodingExercise4BarkingDogs" />
         <item itemvalue="Application.expressionstatement.CodingExercise3Megabytes" />

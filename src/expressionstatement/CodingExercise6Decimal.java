@@ -1,9 +1,15 @@
 package expressionstatement;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+
 
 public class CodingExercise6Decimal {
+	public static void main(String[] args) {
+		System.out.println(areEqualByThreeDecimalPlaces(-3.1756,-3.175));
 
+	}
+
+	public static boolean areEqualByThreeDecimalPlaces(double num1,double num2){
+		return (int) (num1*1000)==(int)(num2*1000);
+
+	}
 }
