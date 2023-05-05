@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c9f4b86-d578-449a-9b2f-92d270fc1deb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/expressionstatement/CodingExercise7EqualSumChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/ComparableProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expressionstatement/CodingExercise8TeenNumberChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,33 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CodingExercise7EqualSumChecker">
-    <configuration name="ArrayListChallange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.ArrayListChallange" />
-      <module name="TimJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CodingExercise5LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expressionstatement.CodingExercise5LeapYear" />
-      <module name="TimJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="expressionstatement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ComparableProgram">
     <configuration name="CodingExercise6Decimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="expressionstatement.CodingExercise6Decimal" />
       <module name="TimJava" />
@@ -88,6 +64,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CodingExercise8TeenNumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expressionstatement.CodingExercise8TeenNumberChecker" />
+      <module name="TimJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expressionstatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparableProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.ComparableProgram" />
+      <module name="TimJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generics.Main" />
       <module name="TimJava" />
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComparableProgram" />
+        <item itemvalue="Application.CodingExercise8TeenNumberChecker" />
         <item itemvalue="Application.CodingExercise7EqualSumChecker" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CodingExercise6Decimal" />
-        <item itemvalue="Application.ArrayListChallange" />
-        <item itemvalue="Application.CodingExercise5LeapYear" />
       </list>
     </recent_temporary>
   </component>
