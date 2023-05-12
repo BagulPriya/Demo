@@ -23,7 +23,7 @@ public class Hashing {
 		System.out.println("mySet = " + mySet);
 		System.out.println(" # of elements = " + mySet.size());
 		for (String setValue: mySet){
-			System.out.println( setValue + " :" );
+			System.out.println( setValue + " :" + setValue.hashCode());
 			for(int i=0;i<hellos.size();i++){
 				if(setValue== hellos.get(i)){
 					System.out.println(i + ",");

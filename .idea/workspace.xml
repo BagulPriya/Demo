@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c9f4b86-d578-449a-9b2f-92d270fc1deb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/setAndMap/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setAndMap/ContactData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setAndMap/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,19 +39,6 @@
   }
 }</component>
   <component name="RunManager" selected="Application.Hashing">
-    <configuration name="CodingExercise8TeenNumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expressionstatement.CodingExercise8TeenNumberChecker" />
-      <module name="TimJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="expressionstatement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CodingExercise9AreaCal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="expressionstatement.CodingExercise9AreaCal" />
       <module name="TimJava" />
@@ -101,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="setAndMap.Main" />
+      <module name="TimJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="setAndMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Hashing" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.CollectionDeckOfCards.Main" />
         <item itemvalue="Application.CodingExercise9AreaCal" />
         <item itemvalue="Application.ComparableProgram" />
-        <item itemvalue="Application.CodingExercise8TeenNumberChecker" />
       </list>
     </recent_temporary>
   </component>
