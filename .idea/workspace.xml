@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="050535a3-0fb7-48c5-9278-57d295e980cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JunitPracticetest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Junitchallenge/UtilitiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Junitchallenge/UtilitiesTestParameterized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Junitchallenge/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceofjunit/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceofjunit/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceofjunit/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PxiQguKXAzvI7ZvgjHmInBMwT9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Junitchallenge" />
+      <recent name="practiceofjunit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UtilitiesTestParameterized.removePairs">
+    <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="JunitPracticetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceofjunit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practiceofjunit" />
+      <option name="MAIN_CLASS_NAME" value="practiceofjunit.BankAccountTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilitiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPracticetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Junitchallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Junitchallenge" />
+      <option name="MAIN_CLASS_NAME" value="Junitchallenge.UtilitiesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilitiesTestParameterized.removePairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPracticetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Junitchallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Junitchallenge" />
+      <option name="MAIN_CLASS_NAME" value="Junitchallenge.UtilitiesTestParameterized" />
+      <option name="METHOD_NAME" value="removePairs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilitiesTest.converter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPracticetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Junitchallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Junitchallenge" />
+      <option name="MAIN_CLASS_NAME" value="Junitchallenge.UtilitiesTest" />
+      <option name="METHOD_NAME" value="converter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilitiesTest.converter_arithmaticException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPracticetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Junitchallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Junitchallenge" />
+      <option name="MAIN_CLASS_NAME" value="Junitchallenge.UtilitiesTest" />
+      <option name="METHOD_NAME" value="converter_arithmaticException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilitiesTest.nullIfOddLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPracticetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Junitchallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Junitchallenge" />
+      <option name="MAIN_CLASS_NAME" value="Junitchallenge.UtilitiesTest" />
+      <option name="METHOD_NAME" value="nullIfOddLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BankAccountTest" />
+      <item itemvalue="JUnit.UtilitiesTestParameterized.removePairs" />
+      <item itemvalue="JUnit.UtilitiesTest" />
+      <item itemvalue="JUnit.UtilitiesTest.converter" />
+      <item itemvalue="JUnit.UtilitiesTest.converter_arithmaticException" />
+      <item itemvalue="JUnit.UtilitiesTest.nullIfOddLength" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UtilitiesTestParameterized.removePairs" />
+        <item itemvalue="JUnit.UtilitiesTest" />
+        <item itemvalue="JUnit.UtilitiesTest.converter_arithmaticException" />
+        <item itemvalue="JUnit.UtilitiesTest.converter" />
+        <item itemvalue="JUnit.UtilitiesTest.nullIfOddLength" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="050535a3-0fb7-48c5-9278-57d295e980cf" name="Changes" comment="" />
+      <created>1684405121784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684405121784</updated>
+    </task>
+    <servers />
+  </component>
+</project>
