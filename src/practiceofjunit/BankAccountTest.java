@@ -31,7 +31,7 @@ public class BankAccountTest {
 	}
 	@org.junit.Test
 	public void isChecking_true(){
-		BankAccount account=new BankAccount("priya","bagul",1000.00,BankAccount.SAVING);
+		BankAccount account=new BankAccount("priya","bagul",1000.00,BankAccount.CHECKING);
 		assertTrue("the account is not checking account", account.isChecking());
 
 	}
